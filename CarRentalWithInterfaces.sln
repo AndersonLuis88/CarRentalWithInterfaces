@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalWithInterfaces", "CarRentalWithInterfaces\CarRentalWithInterfaces.csproj", "{819C3968-BEE7-47C3-B7C3-E2B213EE2402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeWithInterfaces", "ShapeWithInterfaces\ShapeWithInterfaces.csproj", "{6D7AE995-0350-4C99-A777-160EA926C00C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{819C3968-BEE7-47C3-B7C3-E2B213EE2402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819C3968-BEE7-47C3-B7C3-E2B213EE2402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819C3968-BEE7-47C3-B7C3-E2B213EE2402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7AE995-0350-4C99-A777-160EA926C00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7AE995-0350-4C99-A777-160EA926C00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7AE995-0350-4C99-A777-160EA926C00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7AE995-0350-4C99-A777-160EA926C00C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
